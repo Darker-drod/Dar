@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         All in one
 // @namespace    http://tampermonkey.net/
-// @version      2.0
+// @version      2.1
 // @description  try to take over the world!
 // @author       Darker
 // @match        https://eduapplet.com/CBT259/eLearnVideos.aspx

@@ -30,3 +30,7 @@ function myTimer() {document.getElementsByClassName("plyr__poster").remove();
 
 function controlsdeleter() {document.getElementsByClassName("plyr__controls").remove();
 }
+;var buttonVar = setInterval(buttonTimer, 1);
+
+function buttonTimer() {document.getElementsByClassName("plyr__control plyr__control--overlaid").remove();
+}

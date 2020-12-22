@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         All in one
+// @name         darker army
 // @namespace    http://tampermonkey.net/
 // @version      2.1
 // @description  try to take over the world!

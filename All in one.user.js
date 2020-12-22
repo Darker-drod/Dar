@@ -4,7 +4,7 @@
 // @version      2.1
 // @description  try to take over the world!
 // @author       Darker
-// @match        https://eduapplet.com/CBT259/eLearnVideos.aspx
+// @match        https://eduapplet.com/CBT259/*
 // @grant        none
 // ==/UserScript==
 

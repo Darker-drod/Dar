@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         darker army
 // @namespace    http://tampermonkey.net/
-// @version      2.1
-// @description  try to take over the world!
+// @version      3.1
+// @description  enligthen your darkness
 // @author       Darker
 // @match        https://eduapplet.com/CBT259/*
 // @grant        none
